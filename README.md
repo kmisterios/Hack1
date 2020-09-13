@@ -1,3 +1,8 @@
+# Financial-chat-bot
+Skoltech Hack Lab project. Introducing telegram chat bot with voice interaction which helps to learn how to manage finances and how to invest in the form of the game.
+* To run write the following command and follow the instructions in terminal corresponding to the folder of the project:
+python hackabot/telegram.py
+
 # Installation
 1. At first, you need to [create new bot in Telegram](https://core.telegram.org/bots#6-botfather).
 2. Install python and venv
@@ -33,7 +38,3 @@ if __name__ == '__main__':
     )
     print(resp.status_code, resp.text)
 ```
-# Financial-chat-bot
-Skoltech Hack Lab project. Introducing telegram chat bot with voice interaction which helps to learn how to manage finances and how to invest in the form of the game.
-* To run write the following command and follow the instructions in terminal corresponding to the folder of the project:
-python hackabot/telegram.py
