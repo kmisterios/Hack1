@@ -1,0 +1,3 @@
+PyTelegramBotAPI<4.0.0,>=3.7.3
+granula<2019.0.0,>=2018.2.8
+requests<3.0.0,>=2.24.0
